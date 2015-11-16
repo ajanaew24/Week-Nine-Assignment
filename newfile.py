@@ -1,5 +1,5 @@
 #Alicia Williams
-#Partner's Name...
+#Josh Schoonmaker
 #CIS-125 FA 15
 #Week 9 Assignment
 #newfile.py
